@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7B6C4D-BA71-477B-97B9-7AD021B7A347}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7B6C4D-BA71-477B-97B9-7AD021B7A347}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7B6C4D-BA71-477B-97B9-7AD021B7A347}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\consoleapp6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7B6C4D-BA71-477B-97B9-7AD021B7A347}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\ConsoleApp6\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Product.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\ConsoleApp6\\Product.cs",
+              "RelativeToolTip": "ConsoleApp6\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:12:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:12:28.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
